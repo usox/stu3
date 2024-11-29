@@ -65,7 +65,7 @@
     "bnf/phpstan-psr-container": "^1.0",
     "enlightn/security-checker": "^2.0",
     "friendsofphp/php-cs-fixer": "^3.13",
-    "mikey179/vfsstream": "1.6.11",
+    "mikey179/vfsstream": "^1.6",
     "mockery/mockery": "^1.1",
     "phpstan/extension-installer": "^1.4.3",
     "phpstan/phpstan": "^2.0",
