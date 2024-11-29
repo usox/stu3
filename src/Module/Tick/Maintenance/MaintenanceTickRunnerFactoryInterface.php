@@ -10,9 +10,9 @@ use Stu\Module\Tick\TickRunnerInterface;
 interface MaintenanceTickRunnerFactoryInterface
 {
     /**
-     * @param array<MaintenanceHandlerInterface> $handlerList
+     * @param null|array<MaintenanceHandlerInterface> $handlerList
      */
     public function createMaintenanceTickRunner(
-        array $handlerList = null
+        ?array $handlerList = null
     ): TickRunnerInterface;
 }
