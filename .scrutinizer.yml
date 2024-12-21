@@ -2,7 +2,7 @@ build:
   image: default-bionic
   environment:
     php:
-      version: "8.3.1"
+      version: "8.4.2"
       ini:
         memory_limit: "-1"
       pecl_extensions:

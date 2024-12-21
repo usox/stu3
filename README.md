@@ -6,7 +6,7 @@
 
 ## Lokales Setup
 
-Benötigte Software: Linux (geht u.U. auch unter macOS) docker, php 8.3, composer, git.
+Benötigte Software: Linux (geht u.U. auch unter macOS) docker, php 8.4, composer, git.
 
 - Repository forken und das Source-Code auschecken
 - config.dist.json nach config.json kopieren und anpassen
